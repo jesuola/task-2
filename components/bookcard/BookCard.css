@@ -1,0 +1,20 @@
+.book-card {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
+
+.book-card h2 {
+  font-size: 22px;
+  color: #1f2937;
+}
+
+.author {
+  color: #6b7280;
+}
+
+.category {
+  display: inline-block;
+  color: #6c63ff;
+  font-weight: bold;
+}
